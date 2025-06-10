@@ -1,4 +1,4 @@
-# Sequential Optimization Flow: Bridging Variational Inference and Flow models
+# Sequential Optimization Flow: Bridging Variational Inference and Flow models for Inverse Problems
 
 ## Abstract
 
