@@ -1,4 +1,8 @@
-## Readme
+# __S__equential __O__ptimization __Flow__: Bridging Variational Inference and Flow models
+
+## Abstract
+
+
 
 <!--
 **SO-Flow/SO-Flow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
