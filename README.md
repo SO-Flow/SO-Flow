@@ -1,4 +1,4 @@
-# __S__equential __O__ptimization __Flow__: Bridging Variational Inference and Flow models
+# Sequential Optimization Flow: Bridging Variational Inference and Flow models
 
 ## Abstract
 
